@@ -15,7 +15,7 @@ var arrapp = ['<a href="https://lidaokj.top/?channelCode=nhJBe" target="_blank">
 				  '<a href="https://35z.cc/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>',
 				  '<a href="https://91v327sr.com/?ch=offl2cy" target="_blank">91次元成漫APP</a>',
 				  '<a href="https://ch4x9n7g.com/?_c=offl1mh" target="_blank">51成漫APP</a>',	
-				  '<a href="https://zhuren7.top/?channelCode=dsxk_5" target="_blank">大神成人直播APP</a>',
+				  '<a href="https://dstv8.top//?channelCode=dsxk_5" target="_blank">大神成人直播APP</a>',
 				  '<a href="https://dyaas.com?channel=tdy626j1" target="_blank">抖阴成人短视频</a>',
 				  '<a href="https://8841p.com:8825" target="_blank">澳门新葡京</a>'];
 $.each(shuffle(arrapp),function(index,value){
