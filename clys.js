@@ -11,6 +11,9 @@ $('#hengfuad').append(''+
 '<a href="https://bibo127.com:32060" rel="external nofollow" target="_blank"><img  src="https://23991511.com/56e17f06d69348f8bbd0d25815604f04.gif"></a>'+
 '<a href="https://bibo127.com:32060" rel="external nofollow" target="_blank"><img  src="https://23991511.com/56e17f06d69348f8bbd0d25815604f04.gif"></a>'+
 '<a href="https://bibo127.com:32060" rel="external nofollow" target="_blank"><img  src="https://23991511.com/56e17f06d69348f8bbd0d25815604f04.gif"></a>'+
+'<a href="https://m4430.com:35003" rel="external nofollow" target="_blank"><img  src="https://n0299.com/8b5c7b443ed541c8a3f3c438f29546ac.gif"></a>'+
+'<a href="https://m4430.com:35003" rel="external nofollow" target="_blank"><img  src="https://n0299.com/8b5c7b443ed541c8a3f3c438f29546ac.gif"></a>'+
+'<a href="https://m4430.com:35003" rel="external nofollow" target="_blank"><img  src="https://n0299.com/8b5c7b443ed541c8a3f3c438f29546ac.gif"></a>'+
 '<a href="https://x9428.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://17265111.com/da151becf40443448ec29fc7318af123.gif"></a>'+
 '<a href="https://x9428.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://17265111.com/da151becf40443448ec29fc7318af123.gif"></a>'+
 '<a href="https://x9428.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://17265111.com/da151becf40443448ec29fc7318af123.gif"></a>'+
@@ -26,10 +29,6 @@ $('#hengfuad').append(''+
 '<a href="https://2756s.com:1688" rel="external nofollow" target="_blank"><img  src="https://qbyyvg3.com/16ab00243fc344c98900339d6d98c70a.gif"></a>'+
 '<a href="https://2756s.com:1688" rel="external nofollow" target="_blank"><img  src="https://qbyyvg3.com/16ab00243fc344c98900339d6d98c70a.gif"></a>'+
 '<a href="https://8116j.com:8825" rel="external nofollow" target="_blank"><img  src="https://fpvdxd5.com/66c18d2892d14ee9bd9882be6e06d221.gif"></a>'+
-'<a href="https://8222162.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://bfrmye5.com/037cb4c1258347da9801d964a96e290b.gif"></a>'+
-'<a href="https://8222162.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://bfrmye5.com/037cb4c1258347da9801d964a96e290b.gif"></a>'+
-'<a href="https://8222162.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://bfrmye5.com/037cb4c1258347da9801d964a96e290b.gif"></a>'+
-'<a href="https://8222162.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://bfrmye5.com/037cb4c1258347da9801d964a96e290b.gif"></a>'+
 '');
 
 function shuffle(arr){
